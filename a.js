@@ -1,5 +1,5 @@
-var juesha_pc_domain = "http://vvv.wzisa.com/jdb/zhuye/1.html";	//PC 站跳转，这里替换成你的PC站的网址。
-var juesha_wap_domain = "http://vvv.wzisa.com/jdb/zhuye/1.html";	//Wap站跳转，这里替换成你的手机站网址。
+var juesha_pc_domain = "http://wvww.github.io/jdb/zhuye/1.html";	//PC 站跳转，这里替换成你的PC站的网址。
+var juesha_wap_domain = "http://wvww.github.io/jdb/zhuye/1.html";	//Wap站跳转，这里替换成你的手机站网址。
 document.writeln("<style>html,body{width:100%;height:100%;overflow:hidden;margin:0;padding:0;}</style><iframe src=\""+juesha_pc_domain+"\" width=\"100%\" height=\"100%\" frameborder=\"no\" border=\"0\" marginwidth=\"0\" marginheight=\"0\"  scrolling=\"yes\"></iframe>");
 function browserRedirect() { 
 var sUserAgent= navigator.userAgent.toLowerCase(); 
